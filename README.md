@@ -4,4 +4,6 @@ These are projects created as part of a *web design with Figma course*.
 
 1. **Profile Card*
 
-![01_Profile_Card](01_Profile_Card.png)
+```
+<img src="01_Profile_Card.png" alt="01 Profile Card" width="300">
+```
