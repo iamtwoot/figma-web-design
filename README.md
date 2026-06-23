@@ -5,3 +5,7 @@ These are projects created as part of a *web design with Figma course*.
 1. **Profile Card**
 
 <img src="01_Profile_Card.png" alt="01 Profile Card" width="300">
+
+2. **Landing Page**
+
+<img src="02_Landing_Page.png" alt="02_Landing_Page" width="500">
